@@ -1,11 +1,11 @@
 # GIST 4302/5302: Spatial Analysis and Modeling
 
 ---
-|**Instructor**: [Guofeng Cao](www.gis.ttu.edu/starlab/guofeng)| **Teaching Assistant** : Ashley Morris|
-|----------------------------|---------------------------------------|
-|**Office**: Holden Hall 211 |  Holden Hall 209                       |
-|**Office hours**: TR 1:30-3:30pm or by appointment | M,W 10:00 - 11:00am or by appointment             |
-|**Email**: guofeng.cao@ttu.edu | ashley.morris@ttu.edu               |
+|         |**Instructor**: [Guofeng Cao](www.gis.ttu.edu/starlab/guofeng)| **Teaching Assistant** : Ashley Morris|
+|---------|------------------|---------------------------------------|
+|**Office** | Holden Hall 211 |  Holden Hall 209                       |
+|**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00 - 11:00am or by appointment             |
+|**Email**| guofeng.cao@ttu.edu | ashley.morris@ttu.edu               |
 
 ---
 
