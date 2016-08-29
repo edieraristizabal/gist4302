@@ -1,3 +1,10 @@
+---
+layout: page
+nav: home
+title: GIST 4302/5302: Spatial Analysis 
+---
+
+
 <span>**GIST 4302: Spatial Analysis and Modeling**</span>\
 <span style="font-variant:small-caps;">Fall 2016</span>\
  *Tuesdays & Thursdays **<span>12:30pm-1:20pm</span>**, Science 234*\
