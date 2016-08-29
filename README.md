@@ -4,7 +4,7 @@
 |**Instructor**: Guofeng Cao | **Teaching Assistant** : Ashley Morris|
 |----------------------------|---------------------------------------|
 |**Office**: Holden Hall 211 |  Holden Hall 209                       |
-|**Office hours**: TR 1:30-3:30pm | M,W 10:00 - 11:00am              |
+|**Office hours**: TR 1:30-3:30pm or by appointment | M,W 10:00 - 11:00am              |
 |**Email**: guofeng.cao@ttu.edu | ashley.morris@ttu.edu               |
 
 ---
