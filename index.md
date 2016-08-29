@@ -1,28 +1,13 @@
 ---
 layout: page
 nav: home
-title: GIST 4302/5302: Spatial Analysis 
+title: GIST 4302/5302: Spatial Analysis and Modeling
 ---
 
+#GIST 4302/5302: Spatial Analysis and Modeling
 
-<span>**GIST 4302: Spatial Analysis and Modeling**</span>\
-<span style="font-variant:small-caps;">Fall 2016</span>\
- *Tuesdays & Thursdays **<span>12:30pm-1:20pm</span>**, Science 234*\
- *GIST 4302: Tuesday **2:00-3:50pm** *Friday* **1:00-2:50pm***
 
-<http://www.gis.ttu.edu/gist4302>
-
-  ------------------------------------ ---------------------------------------
-  **Instructor:** Guofeng Cao          **Teaching Assistant:** Ashely Morris
-  **Office:** Holden Hall 211          **Office:** Holden Hall 209
-  **Office Hours:** Th 1:30pm-3:30pm   **Office Hours:** M,W 10:00-11:00am
-  **Email:** guofeng.cao@ttu.edu       **Email:** ashley.morris@ttu.edu
-  ------------------------------------ ---------------------------------------
-
-\
-
-Course description
-==================
+## Course description
 
 With the continuing advances of technological development, spatial data
 have been easily and increasingly available in the past decades and
@@ -47,15 +32,14 @@ course includes:
     exploratory spatial data analysis (e.g., Moran’s I), spatial
     interpolation (e.g. kriging) and spatial regression.
 
-A lab/discussion session (approximately $2$ hours) follows the lecture
-for students to gain hands-on experiences on real-world datasets by
-using multiple software tools. The software packages utilized in lab
-sessions include ArcGIS, Open GeoDa, R or Matlab. Students with
-expertise or interest in the statistical package R or Matlab are
-encouraged to use them but it is not required.
+A lab/discussion session (approximately *2* hours) follows the lecture for
+students to gain hands-on experiences on real-world datasets by using
+multiple software tools. The software packages utilized in lab sessions
+include *ArcGIS*, *Open GeoDa*, *R* or *Matlab*. Students with expertise or
+interest in the statistical package *R* or *Matlab* are encouraged to use
+them but it is not required.
 
-Prerequisites
-=============
+## Prerequisites
 
 Prerequisites of this course includes an understanding of basic algebra,
 general statistics (e.g., knowledge of statistical significance) and
@@ -65,8 +49,7 @@ packages, e.g. ArcGIS, which could be fulfilled with <span>*GIST
 welcome, please contact the instructor should there any question about
 the prerequisites.
 
-Learning outcomes
-=================
+##Learning outcomes
 
 After completing this course, the of this class are expected to learn
 how to:
@@ -82,8 +65,7 @@ how to:
 -   communicate results of spatial analysis in the forms of writing and
     presentation
 
-Readings
-========
+## Readings
 
 The main course text is:
 
@@ -123,8 +105,7 @@ if using Matlab:
     Handbook with MATLAB, 2nd Edition*, Taylor & Francis – Chapman
     & Hall/CRC.
 
-Assessment
-==========
+##Assessment
 
 There are two written exams in this course (a midterm and a final), lab
 exercises, and a final project that includes a project proposal and
@@ -149,8 +130,7 @@ Students are encouraged to start thinking of project ideas early in the
 semester, and communicate them with the instructor and the TA for
 feedbacks and comments.
 
-Grading
-=======
+##Grading
 
 Each exam, lab exercise and final project is worth $100$ points, and the
 final points will be a combination of these three elements according to
@@ -166,8 +146,7 @@ the following weights:
 To ensure a specific grade in this course you must meet the following
 minimum requirements: A - 90%, B - 80%, C - 70%, D - 60%.
 
-University policy
-=================
+##University policy
 
 -   Academic honesty (OP 34.12):
     <http://www.depts.ttu.edu/opmanual/OP34.12.pdf>
@@ -177,5 +156,4 @@ University policy
 
 -   Students absence for observance of a religious holy day (OP 34.19):
     <http://www.depts.ttu.edu/opmanual/OP34.19.pdf>
-
 
