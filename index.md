@@ -4,7 +4,7 @@ nav: home
 title: GIST 4302/5302: Spatial Analysis and Modeling
 ---
 
-#GIST 4302/5302: Spatial Analysis and Modeling
+# GIST 4302/5302: Spatial Analysis and Modeling
 
 
 ## Course description
@@ -49,7 +49,7 @@ packages, e.g. ArcGIS, which could be fulfilled with <span>*GIST
 welcome, please contact the instructor should there any question about
 the prerequisites.
 
-##Learning outcomes
+## Learning outcomes
 
 After completing this course, the of this class are expected to learn
 how to:
@@ -105,7 +105,7 @@ if using Matlab:
     Handbook with MATLAB, 2nd Edition*, Taylor & Francis – Chapman
     & Hall/CRC.
 
-##Assessment
+## Assessment
 
 There are two written exams in this course (a midterm and a final), lab
 exercises, and a final project that includes a project proposal and
@@ -118,19 +118,18 @@ The purpose of the final project is to provide experiences for students
 to apply the methods and tools learned from this class to real-world
 spatial problems. Topics of the final project could be related to the
 spatial aspect of a thesis or another course work. The proposal
-associated with the final project should include a clear description of
-the proposed problems with appropriate background literatures justifying
-the motivation, description of the collected data sources, and
-methodology adopted to address the problem. When the project proposal is
-due (Nov.3rd), students are expected to have collected the necessary
-data at hand. The final project will require a presentation of about
-6-10 mins (*PechaKucha style*:
-<http://en.wikipedia.org/wiki/Pecha_Kucha>), and a final project report.
-Students are encouraged to start thinking of project ideas early in the
-semester, and communicate them with the instructor and the TA for
+associated with the final project should include a clear description of the
+proposed problems with appropriate background literatures justifying the
+motivation, description of the collected data sources, and methodology
+adopted to address the problem. When the project proposal is due (Nov.3rd),
+students are expected to have collected the necessary data at hand. The
+final project will require a presentation of about 6-10 mins (*PechaKucha
+style*: <http://en.wikipedia.org/wiki/Pecha_Kucha>), and a final project
+report.  Students are encouraged to start thinking of project ideas early
+in the semester, and communicate them with the instructor and the TA for
 feedbacks and comments.
 
-##Grading
+## Grading
 
 Each exam, lab exercise and final project is worth $100$ points, and the
 final points will be a combination of these three elements according to
@@ -146,7 +145,7 @@ the following weights:
 To ensure a specific grade in this course you must meet the following
 minimum requirements: A - 90%, B - 80%, C - 70%, D - 60%.
 
-##University policy
+## University policy
 
 -   Academic honesty (OP 34.12):
     <http://www.depts.ttu.edu/opmanual/OP34.12.pdf>
