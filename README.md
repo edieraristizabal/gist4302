@@ -53,8 +53,7 @@ Matlab are encouraged to use them but it is not required.
 ## Course Schedule
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 |-----|-------------|----------------|----------|-----------------------|
-|1    |Aug 30, Sept 1 |Overview of the course; Introduction to spatial analysis| O'S & U ch.1   | Review of map projection
-and ArcGIS |
+|1    |Aug 30, Sept 1 |Overview of the course; Introduction to spatial analysis| O'S & U ch.1   | Review of map projection and ArcGIS | 
 |2    |Sept 6, 8  |Spatial data representation & operations: vector analysis| O'S & U ch.1 and 10   | |
 |3    |Sept 13, 15  |Spatial data representation & operations: vector analysis| O'S & U ch.1 and 10   | |
 |4    |Sept 20, 22 |Spatial data representation & operations: raster analysis | O'S & U ch.1 and 10   | |
@@ -70,42 +69,6 @@ and ArcGIS |
 |14   | Nov 29, Dec 1 |Spatial interpolation| O'S&U ch.8 and 9 | |
 |15   | Dec 6 | Review|  | |
 |16   | Dec 10 1:30-4:00pm  | Final |  | |
-
-1 Aug. 27th Introduction to spatial data analysis O'S&U ch.1 Review of map projections and ArcMap
-2 Sept. 1rd& 4th Spatial data representation and spatial opera-
-tions
-O'S&U ch.1, 10 Spatial query: Finding what's inside
-3 Sept. 8th & 11th Spatial data representation and spatial opera-
-tions
-O'S&U appendix A-B
-Spatial query: Finding what's nearby
-4 Sept. 15th Probability and statistics review O'S&U appendix A-B
-Point pattern analysis
-4 Sept. 18th Pitfalls and potentials of spatial data O'S&U ch.2
-5 Sept. 22th&24th Spatial point pattern analysis O'S&U ch.4-5 Point pattern analysis
-6 Sept. 29th Spatial point pattern analysis O'S&U ch.4-5
-Mapping with GeoDa
-6 Oct. 1st Spatial statistics of area objects, exploratory
-spatial analysis
-O'S&U ch.7
-7 Oct. 6th Review and student project discussion
-Student project discussion
-7 Oct. 8th Exam I
-8 Oct. 13th&15th Simple linear regression and spatial regression F&B&C ch.2, 5 Spatial regression using GeoDa
-9 Oct. 20th&22th Simple linear regression and spatial regression F&B&C ch.1 Spatial regression using GeoDa
-10 Oct. 27th & 29th Introduction to geostatistics (kriging) O'S&U ch.8,9 Spatial interpolation with ArcGIS
-10 Oct. 30th More regressions II
-11 Nov. 3th&5th Introduction to geostatistics (kriging) O'S&U ch. 11 Proposal due (data should be ready) & spatial
-interpolation with ArcGIS
-12 Nov. 10th &13th Spatial uncertainty d&L&G ch.4.2.12, hand-outs Student project
-13 Nov. 17th& 19th frontiers of spatial analysis hand-outs Student project
-14 Nov. 24th Project presentation
-14 Nov. 26th Thanksgiving holidays
-15 Dec. 2rd Review
-Project presentation
-15 Dec. 4th Individual study day
-16 Dec. 8th, 4:30-7pm Exam II Student project report due
-
 
 ## Learning outcomes
 
