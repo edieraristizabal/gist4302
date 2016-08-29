@@ -1,0 +1,20 @@
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: false
+highlighter: rouge
+
+# For related posts
+# lsi: true
+# highlighter: pygments
+
+permalink: pretty
+paginate: 5
+
+safe: true
+
+title: GIST4302 Spatial Analysis and Modeling 
+subtitle: Department of Geosciences, Texas Tech University
+author: Guofeng Cao 
+production_url: 
+url: 
