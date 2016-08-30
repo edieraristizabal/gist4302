@@ -1,13 +1,16 @@
-# GIST 4302/5302: Spatial Analysis and Modeling
-
 ---
+layout: base
+Author: Guofeng Cao
+---
+
+# [GIST 4302/5302: Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302)
+
 |         |**Instructor**: [Guofeng Cao](www.gis.ttu.edu/starlab/guofeng)| **TA** : Ashley Morris|
-|---------|------------------|---------------------------------------|
+| ------- | :-------------- | :----------------------------------- |
 |**Office** | Holden Hall 211 |  Holden Hall 209                       |
-|**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00 - 11:00am or by appointment             |
+|**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00-11:00am or by appointment             |
 |**Email**| guofeng.cao@ttu.edu | ashley.morris@ttu.edu               |
 
----
 
 ## Prerequisites
 
@@ -51,23 +54,24 @@ particular) with expertise or interest in the statistical package R or
 Matlab are encouraged to use them but it is not required.
 
 ## Course Schedule
+
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
-|-----|-------------|----------------|----------|-----------------------|
-|1    |Aug 30, Sept 1 |Overview of the course; Introduction to spatial analysis| O'S & U ch.1   | Review of map projection and ArcGIS | 
-|2    |Sept 6, 8  |Spatial data representation & operations: vector analysis| O'S & U ch.1 and 10   | |
-|3    |Sept 13, 15  |Spatial data representation & operations: vector analysis| O'S & U ch.1 and 10   | |
-|4    |Sept 20, 22 |Spatial data representation & operations: raster analysis | O'S & U ch.1 and 10   | |
-|5    |Sept 27, 29 |Spatial data representation & operations: raster analysis| O'S & U ch.1 and 10   | |
-|6    |Oct 4,6 |Statistics review; pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix A-B  | |
-|7    | Oct 11, 13 |Point pattern analysis| O'S & U ch.4 and 5  | |
-|8    | Oct 18, 20 |Student project discussion; midterm|  | |
-|9    | Oct 25, 27 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | |
-|10   | Nov 1,3  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | |
-|11   | Nov 8, 10  |Spatial regression| handouts  | |
-|12   | Nov 15,17 |Spatial regression| handouts | |
-|13   | Nov 22, thanksgiving  |Spatial interpolation| O'S&U ch.8 and 9 | |
-|14   | Nov 29, Dec 1 |Spatial interpolation| O'S&U ch.8 and 9 | |
-|15   | Dec 6 | Review|  | |
+| --- | ----------- | -------------- | -------- | --------------------- |
+|1    |Aug 30, Sept 1 |[Overview of the course](../lectures/lecture1.pdf); Introduction to spatial analysis| O'S & U ch.1   | Review of map projection and ArcGIS | 
+|2    |Sept 6, 8  |Spatial representation: vector analysis| O'S & U ch.1 and 10  | Spatial query I |
+|3    |Sept 13, 15 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
+|4    |Sept 20, 22 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
+|5    |Sept 27, 29 |Spatial representation: raster analysis| O'S & U ch.1 and 10  | Model builder | 
+|6    |Oct 4, 6 |Statistics review; pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix A-B  | Homework assignment | 
+|7    | Oct 11, 13 |Point pattern analysis| O'S & U ch.4 and 5  |Point pattern analysis |
+|8    | Oct 18, 20 |Student project discussion; midterm|  | Project discussion |
+|9    | Oct 25, 27 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa | 
+|10   | Nov 1, 3  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Regression with GeoDa ; Proposal due | 
+|11   | Nov 8, 10  |Spatial regression| handouts  |Regression with GeoDa |
+|12   | Nov 15, 17 |Spatial regression| handouts |Spatial interpolation |
+|13   | Nov 22, thanksgiving  |Spatial interpolation| O'S&U ch.8 and 9 | Class project|
+|14   | Nov 29, Dec 1 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
+|15   | Dec 6 | Review|  | Project presentation |
 |16   | Dec 10 1:30-4:00pm  | Final |  | |
 
 ## Learning outcomes
@@ -104,7 +108,7 @@ The main course text is:
     Analysis, 2nd Edition*, John Wily & Sons. The first edition of this
     book works in the most cases as well.
 
-The following books will be helpful for some topics of this class.
+The following book will be helpful for some topics of this class.
 Additional readings and handouts ill be suggested as the class
 progresses.
 
@@ -112,9 +116,6 @@ progresses.
     (2013), *Geospatial Analysis: A Comprehensive Guide to Principles,
     Techniques and Software Tools, 4th Edition*. Available in both print
     and web () version at <http://www.spatialanalysisonline.com>
-
--   Fotheringham, A.S., Brundson, C., and M. Charlton (2003),
-    *Geographically Weighted Regression*, John Wiley & Sons.
 
 For the lab assignments, you have different options of software tools to
 choose from. If using ArcGIS, you might find the following book helpful:
@@ -136,8 +137,6 @@ if using Matlab:
     Handbook with MATLAB, 2nd Edition*, Taylor & Francis – Chapman
     & Hall/CRC.
 
-
-
 ## Assessment
 
 There are two written exams in this course (a midterm and a final), lab
@@ -158,10 +157,10 @@ description of the collected data sources, and methodology adopted to
 address the problem.  When the project proposal is due (Nov.3rd), students
 are expected to have collected the necessary data at hand. The final
 project will require a presentation of about 6-10 mins [*PechaKucha
-style*](http://en.wikipedia.org/wiki/Pecha_Kucha), and a final project
-report. Students are encouraged to start thinking of project ideas early in
-the semester, and communicate them with the instructor and the TA for
-feedbacks and comments.
+style*](http://en.wikipedia.org/wiki/Pecha_Kucha) or a poster session, and
+a final project report. Students are encouraged to start thinking of
+project ideas early in the semester, and communicate them with the
+instructor and the TA for feedbacks and comments.
 
 ## Grading
 
@@ -171,7 +170,7 @@ the following weights:
 
 -   two written exams: 30% (each 15%)
 
--   six (out of nine) lab exercises: 40% (each ~ 6.6%)
+-   six (out of ten) lab exercises: 40% (each ~ 6.6%)
 
 -   final project proposal (5%), presentation (10%) and paper (15%) :
     30%
