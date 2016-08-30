@@ -11,7 +11,6 @@ Author: Guofeng Cao
 |**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00-11:00am or by appointment             |
 |**Email**| guofeng.cao@ttu.edu | ashley.morris@ttu.edu               |
 
-
 ## Prerequisites
 
 Prerequisites of this course includes an understanding of basic algebra,
