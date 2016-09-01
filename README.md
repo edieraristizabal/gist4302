@@ -11,7 +11,6 @@ Author: Guofeng Cao
 |**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00-11:00am or by appointment             |
 |**Email**| guofeng.cao@ttu.edu | ashley.morris@ttu.edu               |
 
-
 ## Prerequisites
 
 Prerequisites of this course includes an understanding of basic algebra,
@@ -57,7 +56,10 @@ Matlab are encouraged to use them but it is not required.
 
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ----------- | -------------- | -------- | --------------------- |
-|1    |Aug 30, Sept 1 |[Overview of the course](../lectures/lecture1.pdf); Introduction to spatial analysis| O'S & U ch.1   | Review of map projection and ArcGIS | 
+|1    |Aug 30, Sept 1 |[Overview of the
+course](blob/lectures/lecture1.pdf); [Introduction to spatial
+analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1; [map
+projection](blob/handouts/projections.pdf)   | Review of map projection and ArcGIS | 
 |2    |Sept 6, 8  |Spatial representation: vector analysis| O'S & U ch.1 and 10  | Spatial query I |
 |3    |Sept 13, 15 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |4    |Sept 20, 22 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
