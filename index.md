@@ -5,7 +5,7 @@ Author: Guofeng Cao
 
 # [GIST 4302/5302: Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302)
 
-|         |**Instructor**: [Guofeng Cao](www.gis.ttu.edu/starlab/guofeng)| **TA** : Ashley Morris|
+|         |**Instructor**: [Guofeng Cao](http://www.gis.ttu.edu/starlab/guofeng)| **TA** : Ashley Morris|
 | ------- | :-------------- | :----------------------------------- |
 |**Office** | Holden Hall 211 |  Holden Hall 209                       |
 |**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00-11:00am or by appointment             |
