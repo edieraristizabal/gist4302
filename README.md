@@ -5,7 +5,7 @@ Author: Guofeng Cao
 
 # [GIST 4302/5302: Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302)
 
-|         |**Instructor**: [Guofeng Cao](www.gis.ttu.edu/starlab/guofeng)| **TA** : Ashley Morris|
+|         |**Instructor**: [Guofeng Cao](http://www.gis.ttu.edu/starlab/guofeng)| **TA** : Ashley Morris|
 | ------- | :-------------- | :----------------------------------- |
 |**Office** | Holden Hall 211 |  Holden Hall 209                       |
 |**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00-11:00am or by appointment             |
@@ -56,14 +56,11 @@ Matlab are encouraged to use them but it is not required.
 
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ----------- | -------------- | -------- | --------------------- |
-|1    |Aug 30, Sept 1 |[Overview of the
-course](blob/lectures/lecture1.pdf); [Introduction to spatial
-analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1; [map
-projection](blob/handouts/projections.pdf)   | Review of map projection and ArcGIS | 
-|2    |Sept 6, 8  |Spatial representation: vector analysis| O'S & U ch.1 and 10  | Spatial query I |
+|1    |Aug 30, Sept 1 |[Overview of the course](blob/lectures/lecture1.pdf); [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
+|2    |Sept 6, 8  |Spatial representation: [vector analysis](blob/lectures/lecture3.pdf)| O'S & U ch.1 and 10  | Spatial query I |
 |3    |Sept 13, 15 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |4    |Sept 20, 22 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
-|5    |Sept 27, 29 |Spatial representation: raster analysis| O'S & U ch.1 and 10  | Model builder | 
+|5    |Sept 27, 29 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
 |6    |Oct 4, 6 |Statistics review; pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix A-B  | Homework assignment | 
 |7    | Oct 11, 13 |Point pattern analysis| O'S & U ch.4 and 5  |Point pattern analysis |
 |8    | Oct 18, 20 |Student project discussion; midterm|  | Project discussion |
