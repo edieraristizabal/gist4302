@@ -64,7 +64,7 @@ Matlab are encouraged to use them but it is not required.
 |6    |Oct 4, 6 |[Statistics review; pitfalls and potential of spatial data](blob/lectures/lecture5.pdf) | O'S & U ch.2, 3 and Appendix A-B  | Homework assignment | 
 |8    | Oct 11, 13 |Student project discussion; [midterm review](blob/lectures/review.pdf)|  | Project discussion |
 |7    | Oct 18, 20 |[Point pattern analysis](blob/lectures/lecture6.pdf)| O'S & U ch.4 and 5  | Point pattern analysis |
-|9    | Oct 25, 27 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa | 
+|9    | Oct 25, 27 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7.pdf)| O'S &U ch.7 | Mapping and cluster detection with GeoDa | 
 |10   | Nov 1, 3  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Regression with GeoDa ; Proposal due | 
 |11   | Nov 8, 10  |Spatial regression| handouts  |Regression with GeoDa |
 |12   | Nov 15, 17 |Spatial regression| handouts |Spatial interpolation |
