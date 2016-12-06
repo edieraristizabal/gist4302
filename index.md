@@ -70,7 +70,7 @@ Matlab are encouraged to use them but it is not required.
 |12   | Nov 15, 17 |Spatial regression| handouts |Spatial interpolation |
 |13   | Nov 22, thanksgiving  |[Spatial interpolation](blob/lectures/lecture9.pdf)| O'S&U ch.8 and 9 | Class project|
 |14   | Nov 29, Dec 1 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
-|15   | Dec 6 | Review|  | Project presentation |
+|15   | Dec 6 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |16   | Dec 10 1:30-4:00pm  | Final |  | |
 
 ## Learning outcomes
