@@ -57,7 +57,7 @@ Matlab are encouraged to use them but it is not required.
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ----------- | -------------- | -------- | --------------------- |
 |1    |Jan. 19 |[Overview of the course](blob/lectures/lecture1.pdf); |   | No lab | 
-|2    | Jan. 24, Jan. 26|[Introduction to spatial analysis](); [Introduction to spatial analysis]()| O'S & U ch.1   | Review of map projection and ArcGIS |
+|2    | Jan. 24, Jan. 26|[Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS |
 |3    |Jan 31, Feb. 2  |Spatial representation: [vector analysis]()| O'S & U ch.1 and 10  | Spatial query I |
 |4    |Feb. 7, 9 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |5    |Feb 14, 16 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
