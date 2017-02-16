@@ -8,7 +8,7 @@ Author: Guofeng Cao
 |         |**Instructor**: [Guofeng Cao](http://www.gis.ttu.edu/starlab/guofeng)| **TA** : Congliang Zhou|
 | ------- | :-------------- | :----------------------------------- |
 |**Office** | Holden Hall 211 |  Holden Hall 216                       |
-|**Office hours**| TR 1:30-3:30pm or by appointment | M,W 10:00-11:00am or by appointment             |
+|**Office hours**| TR 1:30-3:30pm or by appointment | M,W 12:50-1:00pm or by appointment             |
 |**Email**| guofeng.cao@ttu.edu | congliang.zhou@ttu.edu               |
 
 ## Prerequisites
