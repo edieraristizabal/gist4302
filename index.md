@@ -61,7 +61,7 @@ Matlab are encouraged to use them but it is not required.
 |3    |Jan 31, Feb. 2  |Spatial representation: [vector analysis](blob/lectures/lecture3.pdf)| O'S & U ch.1 and 10  | Spatial query I |
 |4    |Feb. 7, 9 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |5    |Feb 14, 16 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
-|6    |Feb 21, 23 |Spatial representation: raster analysis, [geocoding]()| O'S & U ch.1 and 10  | Model builder | 
+|6    |Feb 21, 23 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
 |7    |Feb 28, Mar 2 |[Statistics review; pitfalls and potential of spatial data]() | O'S & U ch.2, 3 and Appendix A-B  | Geocoding; Homework assignment |
 |7    |Feb 28, Mar 2 |Statistics review; pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix A-B  | Geocoding; Homework assignment | 
 |8    | Mar 7, 9 |review; midterm |   |Project discussion |
