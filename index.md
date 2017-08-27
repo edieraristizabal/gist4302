@@ -6,6 +6,7 @@ Author: Guofeng Cao
 # [GIST 4302/5302: Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302)
 
 | ------- | :-------------- | :----------------------------------- |
+| | Instructor: Dr. Guofeng Cao|  TA: Tarek Kandakji                       |
 |**Office** | Holden Hall 211 |  Holden Hall 218                       |
 |**Office hours**| TR 1:30-3:30pm or by appointment | T,TR 1:30-2:30am or by appointment             |
 |**Email**| guofeng.cao@ttu.edu | tarek.kandakji@ttu.edu               |
