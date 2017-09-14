@@ -80,13 +80,13 @@ Matlab are encouraged to use them but it is not required.
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
 |1    |Aug 29, Aug 31|[Overview of the course](blob/lectures/lecture1.pdf); [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
-|2    |Sept 5, 7  |Spatial representation: [vector analysis](blob/lectures/lecture3.pdf)| O'S & U ch.1 and 10  | Spatial query I |
+|2    |Sept 5, 7  |Spatial representation: [vector analysis]| O'S & U ch.1 and 10  | Spatial query I |
 |3    |Sept 12, 14 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |4    |Sept 19, 21 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis | 
 |5    |Sept 26, 28 |Spatial representation: raster analysis, [geocoding]()| O'S & U ch.1 and 10  | Model builder | 
 |6    |Oct 3, 5 |[Statistics review; pitfalls and potential of spatial data]() | O'S & U ch.2, 3 and Appendix A-B  | Geocoding and homework assignment | 
 |8    | Oct 10, 12 |Student project discussion; [midterm review]()|  | Project discussion |
-|7    | Oct 17, 19 |[Point pattern analysis](blob/lectures/lecture6.pdf)| O'S & U ch.4 and 5  | Point pattern analysis |
+|7    | Oct 17, 19 |[Point pattern analysis]| O'S & U ch.4 and 5  | Point pattern analysis |
 |9    | Oct 24, 26 |[Spatial statistics of areal objects & exploratory analysis]()| O'S &U ch.7 | Getting started with GeoDa | 
 |10   | Oct 31, Nov 1  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa ; Proposal due | 
 |11   | Nov 7, 9  |[Spatial interpolation]()| handouts  |Spatial interpolation I |
