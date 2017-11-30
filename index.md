@@ -90,7 +90,7 @@ Matlab are encouraged to use them but it is not required.
 |9    | Oct 24, 26 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7-areal.pdf)| O'S &U ch.7 | Getting started with GeoDa | 
 |10   | Oct 31, Nov 1  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa ; Proposal due | 
 |11   | Nov 7, 9  |[Spatial interpolation](blob/lectures/lecture8-fields.pdf)| handouts  |Spatial interpolation I |
-|12   | Nov 14, 16 |Spatial interpolation| handouts |Spatial interpolation II |
+|12   | Nov 14, 16 |Spatial interpolation: [Variogram](blob/lectures/variogram.pdf)| handouts |Spatial interpolation II |
 |13   | Thanksgiving  | Fall break |  | |
 |14   | Nov 28, Nov 30 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
 |15   | Dec 5 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
