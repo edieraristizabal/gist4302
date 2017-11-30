@@ -93,7 +93,7 @@ Matlab are encouraged to use them but it is not required.
 |12   | Nov 14, 16 |Spatial interpolation| handouts |Spatial interpolation II |
 |13   | Thanksgiving  | Fall break |  | |
 |14   | Nov 28, Nov 30 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
-|15   | Dec 5 | Review|  | Project presentation |
+|15   | Dec 5 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |16   | Dec 9 10:30am-1:00pm  | Final |  | |
 
 ## Learning outcomes
