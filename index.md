@@ -22,14 +22,14 @@ instructor should there any question about the prerequisites.
 
 ## Course description
 
-With the continuing advances of technological development, spatial data
-have been easily and increasingly available in the past decades and
-becoming important information sources in daily decision makings. This
-class is intended for students (undergraduate and graduate students)
-from relevant disciplines (e.g., geography, geology, environmental
-science and social sciences) who are interested in analysis of spatial
-data. Students will be encouraged to engage this course with their
-thesis/dissertation topics and research interests.
+With the continuing advances of technological development, spatial data have
+been easily and increasingly available in the past decades and becoming
+important information sources in daily decision makings. This class is intended
+for students (undergraduate and graduate students) from relevant disciplines
+(e.g., geography, geology, environmental science and social sciences) who are
+interested in working with spatial data analysis. Graduate students are
+encouraged to engage this course with their thesis/dissertation topics and
+research interests. 
 
 This course will introduce fundamental concepts and commonly used
 methods in quantitative analysis of spatial data. Specifically, this
@@ -50,33 +50,31 @@ for students to gain hands-on experiences on real-world datasets by
 using multiple software tools. The software packages utilized in lab
 sessions include ArcGIS, Open GeoDa, R or Matlab. Students ( in
 particular) with expertise or interest in the statistical package R or
-Matlab are encouraged to use them but it is not required.
+Matlab are encouraged to use them but it is not required. 
 
 ## Course Schedule
-<!--
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ----------- | -------------- | -------- | --------------------- |
-|1    |Jan. 19 |[Overview of the course](blob/lectures/lecture1.pdf); |   | No lab | 
-|2    | Jan. 24, Jan. 26|[Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS |
-|3    |Jan 31, Feb. 2  |Spatial representation: [vector analysis](blob/lectures/lecture3.pdf); [compact version of the slides](blob/lectures/lecture3-compact.pdf)| O'S & U ch.1 and 10  | Spatial query I |
-|4    |Feb. 7, 9 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
-|5    |Feb 14, 16 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
-|6    |Feb 21, 23 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
-|7    |Feb 28, Mar 2 |[Statistics review; pitfalls and potential of spatial data](blob/lectures/lecture5-statistics.pdf) | O'S & U ch.2, 3 and Appendix  | Geocoding; Homework assignment |
-|7    |Feb 28, Mar 2 |Statistics review; pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix A-B  | Geocoding; Homework assignment | 
-|8    | Mar 7, 9 |[review](blob/lectures/review.pdf); midterm |   |Project discussion |
-|9    | Mar 14, 16 | Spring break|  | |
-|10    | Mar 21, 23 |[Point pattern analysis](blob/lectures/lecture6.pdf)| O'S & U ch.4 and 5  |Point pattern analysis |
-|11    | Mar 28, 30 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7.pdf)| O'S &U ch.7 | Mapping and cluster detection with GeoDa | 
-|12   | Apr 4, 6 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Regression with GeoDa ; Proposal due | 
-|13   | Apr 11, 13  |Spatial regression| handouts  |Regression with GeoDa |
-|14   | Apr 18, 20  |Spatial regression| handouts |Spatial interpolation |
-|15   | Apr 25, 27  |[Spatial interpolation](blob/lectures/lecture8.pdf)| O'S&U ch.8 and 9 | Class project|
-|16   | May 2, 4 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
-|17   | May 9 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
-|18   | May 16 1:30-4:00pm  | Final |  | |
--->
+|1    |Jan. 18 |[Overview of the course](blob/lectures/lecture1.pdf); |   | No lab | 
+|2    | Jan. 23, Jan. 25|[Introduction to spatial analysis]()| O'S & U ch.1   | Review of map projection and ArcGIS |
+|3    |Jan 30, Feb. 1  |Spatial representation: [vector analysis](); | O'S & U ch.1 and 10  | Spatial query I |
+|4    |Feb. 6, 8 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
+|5    |Feb 13, 15 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
+|6    |Feb 20, 22 |Spatial representation: raster analysis, geocoding| O'S & U ch.1 and 10  | Model builder | 
+|7    |Feb 27, Mar 1 |[Statistics review; pitfalls and potential of spatial data]() | O'S & U ch.2, 3 and Appendix  | Geocoding |
+|8    | Mar 6, 8 |[review](); midterm |   |Project discussion |
+|9    | Mar 13, 15 | Spring break|  | |
+|10    | Mar 20, 22 |[Point pattern analysis]()| O'S & U ch.4 and 5  |Homework assignment|
+|11    | Mar 27, 29 |[[Point pattern analysis]()| O'S &U ch.7 | Point pattern analysis | 
+|12   | Apr 4, 5 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Getting started with GeoDa; Proposal due | 
+|13   | Apr 10, 12 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due | 
+|14   | Apr 17, 19  |[Spatial Interpolation]()| O'S&U ch.8 and 9 |Spatial interpolation |
+|15   | Apr 24, 26  |[Spatial interpolation]()| O'S&U ch.8 and 9 | Class project|
+|16   | May 1, 3 |Kriging| O'S&U ch.8 and 9 |Class project |
+|17   | May 8 | [Review]()|  | Project presentation |
+|18   | May 15 1:30-4:00pm  | Final |  | |
 
+<!--
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
 |1    |Aug 29, Aug 31|[Overview of the course](blob/lectures/lecture1.pdf); [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
@@ -90,12 +88,13 @@ Matlab are encouraged to use them but it is not required.
 |9    | Oct 24, 26 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7-areal.pdf)| O'S &U ch.7 | Getting started with GeoDa | 
 |10   | Oct 31, Nov 1  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa ; Proposal due | 
 |11   | Nov 7, 9  |[Spatial interpolation](blob/lectures/lecture8-fields.pdf)| handouts  |Spatial interpolation I |
-|12   | Nov 14, 16 |Spatial interpolation: [Variogram](blob/lectures/variogram.pdf)| handouts |Spatial interpolation II |
+|12   | Nov 14, 16 |Spatial interpolation| handouts |Spatial interpolation II |
 |13   | Thanksgiving  | Fall break |  | |
 |14   | Nov 28, Nov 30 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
 |15   | Dec 5 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |16   | Dec 9 10:30am-1:00pm  | Final |  | |
 
+-->
 ## Learning outcomes
 
 After completing this course, the **undergraduate** of this class are expected to learn
