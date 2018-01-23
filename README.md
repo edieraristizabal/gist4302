@@ -8,7 +8,7 @@ Author: Guofeng Cao
 | **Instructor:** | **Dr. Guofeng Cao**|  **TA: Tarek Kandakji**            |
 |----------------- |:----------------------------------- |:----------------------------------- | 
 |**Office** | Holden Hall 211   |  Holden Hall 218                   |
-|**Office hours**| TR 1:30-3:30pm or by appointment | T,TR 1:30-2:30pm or by appointment             | 
+|**Office hours**| TR 1:30-3:30pm or by appointment | T,TR 4:00-5:00pm or by appointment             | 
 |**Email**| guofeng.cao@ttu.edu | tarek.kandakji@ttu.edu           |
 
 ## Prerequisites
