@@ -213,7 +213,7 @@ minimum requirements: A - 90%, B - 80%, C - 70%, D - 60%.
 
 ## Useful links:
 
-* Map projection (lots of visuals): http://www.progonos.com/furuti/MapProj/CartIndex/cartIndex.html 
-* Voronoi diagram for map generator: https://www.redblobgames.com/maps/mapgen2/, more details how was made: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
-* Application of convex hull: http://www.pnas.org/content/110/11/4239.full 
+* [Map projection (lots of visuals)](http://www.progonos.com/furuti/MapProj/CartIndex/cartIndex.html)
+* [Voronoi diagram for map generator](https://www.redblobgames.com/maps/mapgen2/); [More details how was made](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
+* [Application of convex hull](http://www.pnas.org/content/110/11/4239.full)
 
