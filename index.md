@@ -62,10 +62,10 @@ Matlab are encouraged to use them but it is not required.
 |4    |Feb. 6, 8 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |5    |Feb 13, 15 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis I | 
 |6    |Feb 20, 22 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
-|7    |Feb 27, Mar 1 |Statistics review; pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix  | Geocoding |
+|7    |Feb 27, Mar 1 |[Statistics review; pitfalls and potential of spatial data](blob/lectures/lecture5-statistics.pdf)| O'S & U ch.2, 3 and Appendix  | Geocoding |
 |8    | Mar 6, 8 |[review](blob/lectures/review.pdf); midterm |   |Project discussion |
 |9    | Mar 13, 15 | Spring break|  | |
-|10    | Mar 20, 22 |Point pattern analysis| O'S & U ch.4 and 5  |Homework assignment|
+|10    | Mar 20, 22 |[Point pattern analysis](blob/lectures/lecture6.pdf)| O'S & U ch.4 and 5  |Homework assignment|
 |11    | Mar 27, 29 |Point pattern analysis| O'S &U ch.7 | Point pattern analysis |
 |12   | Apr 4, 5 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Getting started with GeoDa; Proposal due |
 |13   | Apr 10, 12 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due |
