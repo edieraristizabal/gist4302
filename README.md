@@ -72,7 +72,7 @@ Matlab are encouraged to use them but it is not required.
 |14   | Apr 17, 19  |[Spatial Interpolation](blob/lectures/lecture8-fields.pdf)| O'S&U ch.8 and 9 |Spatial interpolation |
 |15   | Apr 24, 26  |Spatial interpolation| O'S&U ch.8 and 9 | Class project|
 |16   | May 1, 3 |Kriging| O'S&U ch.8 and 9 |Class project |
-|17   | May 8 | Review|  | Project presentation |
+|17   | May 8 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |18   | May 15 1:30-4:00pm  | Final |  | |
 
 <!--
