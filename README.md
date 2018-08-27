@@ -79,21 +79,21 @@ Matlab are encouraged to use them but it is not required.
 
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
-|1    |Aug 28, Aug 30|[Overview of the course](blob/lectures/lecture1.pdf); [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
-|2    |Sept 4, 6  |Spatial representation: [vector analysis](blob/lectures/lecture3-vector.pdf)| O'S & U ch.1 and 10  | Spatial query I |
+|1    |Aug 28, Aug 30|[Overview of the course](); [Introduction to spatial analysis]()| O'S & U ch.1   | Review of map projection and ArcGIS | 
+|2    |Sept 4, 6  |Spatial representation: [vector analysis]()| O'S & U ch.1 and 10  | Spatial query I |
 |3    |Sept 11, 13 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
-|4    |Sept 18, 20 |Spatial representation: [raster analysis](blob/lectures/lecture3-raster.pdf) | O'S & U ch.1 and 10   |Raster analysis | 
+|4    |Sept 18, 20 |Spatial representation: [raster analysis]() | O'S & U ch.1 and 10   |Raster analysis | 
 |5    |Sept 25, 27 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
-|6    |Oct 2, 4 |[Statistics review; pitfalls and potential of spatial data](blob/lectures/lecture5-statistics.pdf) | O'S & U ch.2, 3 and Appendix A-B  | Geocoding and homework assignment | 
-|8    | Oct 9, 11 |Student project discussion; [midterm review](blob/lectures/review.pdf)|  | Project discussion |
+|6    |Oct 2, 4 |[Statistics review; pitfalls and potential of spatial data]() | O'S & U ch.2, 3 and Appendix A-B  | Geocoding and homework assignment | 
+|8    | Oct 9, 11 |Student project discussion; [midterm review]()|  | Project discussion |
 |7    | Oct 16, 18 |[Point pattern analysis](blob/lectures/lecture6-point.pdf)| O'S & U ch.4 and 5  | Point pattern analysis |
-|9    | Oct 23, 25 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7-areal.pdf)| O'S &U ch.7 | Getting started with GeoDa | 
+|9    | Oct 23, 25 |[Spatial statistics of areal objects & exploratory analysis]()| O'S &U ch.7 | Getting started with GeoDa | 
 |10   | Oct 30, Nov 1  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa ; Proposal due | 
-|11   | Nov 6, 8  |[Spatial interpolation](blob/lectures/lecture8-fields.pdf)| handouts  |Spatial interpolation I |
+|11   | Nov 6, 8  |[Spatial interpolation]()| handouts  |Spatial interpolation I |
 |12   | Nov 13, 15 |Spatial interpolation| handouts |Spatial interpolation II |
 |13   | Thanksgiving  | Fall break |  | |
 |14   | Nov 27, Nov 29 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
-|15   | Dec 4 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
+|15   | Dec 4 | [Review]()|  | Project presentation |
 |16   | Dec 8 1:30-4:00pm  | Final |  | |
 
 ## Learning outcomes
