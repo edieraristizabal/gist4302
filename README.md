@@ -80,7 +80,7 @@ Matlab are encouraged to use them but it is not required.
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
 |1    |Aug 28, Aug 30|[Overview of the course](blob/lectures/lecture1.pdf), [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
-|2    |Sept 4, 6  |Spatial representation: [vector analysis](blob/lectures/lecture3-vector.pdf)| O'S & U ch.1 and 10  | Spatial query I |
+|2    |Sept 4, 6  |Spatial representation:[vector analysis](blob/lectures/lecture3-vector.pdf)| O'S & U ch.1 and 10  | Spatial query I | 
 |3    |Sept 11, 13 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
 |4    |Sept 18, 20 |Spatial representation: [raster analysis]() | O'S & U ch.1 and 10   |Raster analysis | 
 |5    |Sept 25, 27 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
