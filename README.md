@@ -93,7 +93,7 @@ Matlab are encouraged to use them but it is not required.
 |12   | Nov 13, 15 | [Kriging](blob/lectures/variogram.pdf) | handouts |Spatial interpolation II |
 |13   | Thanksgiving  | Fall break |  | |
 |14   | Nov 27, Nov 29 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
-|15   | Dec 4 | [Review]()|  | Project presentation |
+|15   | Dec 4 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |16   | Dec 10 (Monday) 1:30-4:00pm  | Final |  | |
 
 ## Learning outcomes
