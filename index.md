@@ -76,7 +76,6 @@ Matlab are encouraged to use them but it is not required.
 |18   | May 14 1:30-4:00pm  | Final |  | |
 
 <!--
-
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
 |1    |Aug 28, Aug 30|[Overview of the course](blob/lectures/lecture1.pdf), [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
@@ -95,7 +94,6 @@ Matlab are encouraged to use them but it is not required.
 |14   | Nov 27, Nov 29 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
 |15   | Dec 4 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |16   | Dec 10 (Monday) 1:30-4:00pm  | Final |  | |
-
 -->
 
 ## Learning outcomes
