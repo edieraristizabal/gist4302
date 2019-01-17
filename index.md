@@ -190,12 +190,12 @@ Each exam, lab exercise and final project is worth $100$ points, and the
 final points will be a combination of these three elements according to
 the following weights:
 
--   two written exams: 40% (each 20%)
+-   two written exams: 30% (each 15%)
 
--   ten lab exercises: 40% 
+-   ten lab exercises: 45% 
 
--   final project proposal (5%), presentation (5%) and paper (10%) :
-    20%
+-   final project proposal (5%), presentation (10%) and paper (10%) :
+    25%
 
 
 To ensure a specific grade in this course you must meet the following
