@@ -8,7 +8,7 @@ Author: Guofeng Cao
 | **Instructor:** | **Dr. Guofeng Cao**|  **TA: Congliang Zhou**            |
 |----------------- |:----------------------------------- |:----------------------------------- | 
 |**Office** | Holden Hall 211   |  Holden Hall 209                   |
-|**Office hours**| TR 3:00-4:00pm or by appointment | M 3:00-5:00pm or by appointment             | 
+|**Office hours**| TR 2:00-3:00pm or by appointment | TW 10:30-11:30am or by appointment             | 
 |**Email**| guofeng.cao@ttu.edu | congliang.zhou@ttu.edu           |
 
 ## Prerequisites
