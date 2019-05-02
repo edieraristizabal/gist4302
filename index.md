@@ -71,8 +71,8 @@ Matlab are encouraged to use them but it is not required.
 |13   | Apr 9, 11 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due |
 |14   | Apr 16, 18  |[Spatial Interpolation](blob/lectures/lecture8-fields.pdf)| O'S&U ch.8 and 9 |Spatial interpolation |
 |15   | Apr 23, 25  |Spatial interpolation| O'S&U ch.8 and 9 | Class project|
-|16   | Apr 30, May 2 |Kriging| O'S&U ch.8 and 9 |Class project |
-|17   | May 7 | Review|  | Project presentation |
+|16   | Apr 30, May 2 |[Kriging](blob/lectures/variogram.pdf)| O'S&U ch.8 and 9 |Class project |
+|17   | May 7 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
 |18   | May 14 1:30-4:00pm  | Final |  | |
 
 <!--
