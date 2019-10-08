@@ -80,8 +80,8 @@ Matlab are encouraged to use them but it is not required.
 | --- | ---------| --------------------------- | -------| --------------------------- |
 |1    |Aug 27, Aug 29|[Overview of the course](blob/lectures/lecture1.pdf), [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
 |2    |Sept 3, 5  |Spatial representation:[vector analysis](blob/lectures/lecture3.pdf)| O'S & U ch.1 and 10  | Spatial query I | 
-|3    |Sept 10, 12 |Spatial representation: [vector analysis](blob/lectures/lecture3.pdf)| O'S & U ch.1 and 10   |Spatial query II |
-|4    |Sept 17, 19 |Spatial representation: [raster analysis](blob/lectures/lecture3.pdf) | O'S & U ch.1 and 10   |Raster analysis | 
+|3    |Sept 10, 12 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
+|4    |Sept 17, 19 |Spatial representation: raster analysis | O'S & U ch.1 and 10   |Raster analysis | 
 |5    |Sept 24, 26 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
 |6    |Oct 1, 3 |[Statistics review; pitfalls and potential of spatial data]() | O'S & U ch.2, 3 and Appendix A-B  | Geocoding and homework assignment | 
 |8    | Oct 8, 10 |Student project discussion; [midterm review](blob/lectures/review.pdf)|  | Project discussion |
