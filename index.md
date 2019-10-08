@@ -84,7 +84,7 @@ Matlab are encouraged to use them but it is not required.
 |4    |Sept 17, 19 |Spatial representation: [raster analysis](blob/lectures/lecture3.pdf) | O'S & U ch.1 and 10   |Raster analysis | 
 |5    |Sept 24, 26 |Spatial representation: raster analysis, [geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
 |6    |Oct 1, 3 |[Statistics review; pitfalls and potential of spatial data]() | O'S & U ch.2, 3 and Appendix A-B  | Geocoding and homework assignment | 
-|8    | Oct 8, 10 |Student project discussion; [midterm review]()|  | Project discussion |
+|8    | Oct 8, 10 |Student project discussion; [midterm review](blob/lectures/review.pdf)|  | Project discussion |
 |7    | Oct 15, 17 |[Point pattern analysis]()| O'S & U ch.4 and 5  | Point pattern analysis |
 |9    | Oct 22, 24 |[Spatial statistics of areal objects & exploratory analysis]()| O'S &U ch.7 | Getting started with GeoDa | 
 |10   | Oct 29, Oct 31  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa ; Proposal due | 
