@@ -88,7 +88,7 @@ Matlab are encouraged to use them but it is not required.
 |7    | Oct 15, 17 |[Point pattern analysis](blob/lectures/lecture6-point.pdf)| O'S & U ch.4 and 5  | Point pattern analysis |
 |9    | Oct 22, 24 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7-areal.pdf)| O'S &U ch.7 | Getting started with GeoDa | 
 |10   | Oct 29, Oct 31  |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Mapping and cluster detection with GeoDa ; Proposal due | 
-|11   | Nov 5, 7  |[Spatial interpolation]()| handouts  |Spatial interpolation I |
+|11   | Nov 5, 7  |[Spatial interpolation](blob/lectures/lecture8-fields.pdf)| handouts  |Spatial interpolation I |
 |12   | Nov 12, 14 | [Kriging]() | handouts |Spatial interpolation II |
 |13   | Nov 19, Nov 21 |Spatial interpolation| O'S&U ch.8 and 9 |Class project |
 |14   | Nov 26, Thanksgiving  | Fall break |  | |
