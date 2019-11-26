@@ -91,9 +91,9 @@ Matlab are encouraged to use them but it is not required.
 |11   | Nov 5, 7  |[Spatial interpolation](blob/lectures/lecture8-fields.pdf)| handouts  |Spatial interpolation I |
 |12   | Nov 12, 14 | [Kriging](blob/lectures/variogram.pdf) | handouts |Spatial interpolation II |
 |13   | Nov 19, Nov 21 |[Spatial uncertainty](blob/lectures/spatial-uncertainty.pdf)| O'S&U ch.8 and 9 |Class project |
-|14   | Nov 26, Thanksgiving  | Fall break |  | |
-|15   | Dec 2 | [Review]()|  | Project presentation |
-|16   | Dec 9 (Monday) 1:30-4:00pm  | Final |  | |
+|14   | Nov 26, Thanksgiving  | [Review](blob/lectures/review2.pdf), Fall break |  | | 
+|15   | Dec 3, 7 | Final, class presentation |  |  |
+|16   | Dec 9 (Monday) 5pm  | Class report |  | |
 
 ## Learning outcomes
 
