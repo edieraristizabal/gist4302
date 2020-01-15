@@ -6,7 +6,7 @@ Author: Guofeng Cao
 # [GIST 4302/5302: Spatial Analysis and Modeling](http://www.gis.ttu.edu/gist4302)
 
 | **Instructor:** | **Dr. Guofeng Cao**|  **TA: Chan-mi Lee**            |
-|----------------- |:----------------------------------- |:----------------------------------- | 
+|----------------- |:----------------- |:----------------------------------- | 
 |**Office** | Holden Hall 211   |  Holden Hall 214                   |
 |**Office hours**| TR 1:30-2:30 or by appointment | W 3:00-4:00pm, R 1:20-2:20pm or by appointment| 
 |**Email**| guofeng.cao@ttu.edu | chanmi.lee@ttu.edu           |
@@ -53,8 +53,9 @@ particular) with expertise or interest in the statistical package R or
 Matlab are encouraged to use them but it is not required. 
 
 ## Course Schedule
+
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics | 
-|---|---------|---------|-------------|---------------------------| 
+|---  |---------|---------|-------------|---------------------------| 
 |1    |Jan. 16 | [Overview of the course]() |   | No lab | 
 |2    |Jan. 21, Jan 23| [Introduction to spatial analysis]()| O'S & U ch.1   | Review of map projection and ArcGIS | 
 |3    |Jan 29, Jan 31  | [Spatial representation: vector analysis]() | O'S & U ch.1 and 10  | Spatial query I |
@@ -73,7 +74,7 @@ Matlab are encouraged to use them but it is not required.
 |16   | Apr 28, 30 |[Kriging]()| O'S&U ch.8 and 9 |Class project |
 |17   | May 5 | [Review]()|  | Project presentation |
 |18   | May 12 1:30-4:00pm  | Final |  | |
-|
+
 <!--
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
