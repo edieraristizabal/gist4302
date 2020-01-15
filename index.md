@@ -8,7 +8,8 @@ Author: Guofeng Cao
 | **Instructor:** | **Dr. Guofeng Cao**|  **TA: Chan-mi Lee**            |
 |----------------- |:----------------------------------- |:----------------------------------- | 
 |**Office** | Holden Hall 211   |  Holden Hall 214                   |
-|**Office hours**| TR 1:30-2:30 or by appointment | W 3:00-4:00pm, R 1:20-2:20pm or by appointment| 
+|**Office hours**| TR 1:30-2:30 or by appointment | W 3:00-4:00pm, R
+1:20-2:20pm or by appointment| 
 |**Email**| guofeng.cao@ttu.edu | chanmi.lee@ttu.edu           |
 
 ## Prerequisites
