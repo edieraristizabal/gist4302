@@ -8,7 +8,8 @@ Author: Guofeng Cao
 | **Instructor:** | **Dr. Guofeng Cao**|  **TA: Chan-mi Lee**            |
 |----------------- |:----------------------------------- |:----------------------------------- | 
 |**Office** | Holden Hall 211   |  Holden Hall 214                   |
-|**Office hours**| TR 3:00-4:00pm or by appointment | TR 5:00-6:00pm or by appointment             | 
+|**Office hours**| TR 1:30-2:30 or by appointment | W 3:00-4:00pm, R
+1:20-2:20pm or by appointment             | 
 |**Email**| guofeng.cao@ttu.edu | chanmi.lee@ttu.edu           |
 
 ## Prerequisites
@@ -53,29 +54,28 @@ particular) with expertise or interest in the statistical package R or
 Matlab are encouraged to use them but it is not required. 
 
 ## Course Schedule
-<!--
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- | 
-|1    |Jan. 17 | [Overview of the course](blob/lectures/lecture1.pdf) |   | No lab | 
-|2    |Jan. 22, Jan 24| [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS |
-|3    |Jan 29, Jan 31  | [Spatial representation: vector analysis](blob/lectures/lecture3-vector.pdf) | O'S & U ch.1 and 10  | Spatial query I |
-|4    |Feb 5, 7 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
-|5    |Feb 12, 14 |[Spatial representation: raster analysis](blob/lectures/lecture3-raster.pdf) | O'S & U ch.1 and 10   |Raster analysis I | 
-|6    |Feb 19, 21 |[Geocoding](blob/lectures/lecture4.pdf)| O'S & U ch.1 and 10  | Model builder | 
-|7    |Feb 25, Feb 27 |[Statistics review](blob/lectures/lecture5-statistics.pdf); pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix  | Geocoding |
-|8    | Mar 5, 7 |review; midterm |   |Project discussion |
-|9    | Mar 12, 14 | Spring break|  | |
-|10    | Mar 19, 21 |[Point pattern analysis](blob/lectures/lecture6-point.pdf)| O'S & U ch.4 and 5  |Homework assignment|
-|11    | Mar 26, 28 |Point pattern analysis| O'S &U ch.7 | Point pattern analysis |
-|12   | Apr 3, 4 |[Spatial statistics of areal objects & exploratory analysis](blob/lectures/lecture7-areal.pdf)| O'S &U ch.7 | Getting started with GeoDa; Proposal due | 
-|13   | Apr 9, 11 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due |
-|14   | Apr 16, 18  |[Spatial Interpolation](blob/lectures/lecture8-fields.pdf)| O'S&U ch.8 and 9 |Spatial interpolation |
-|15   | Apr 23, 25  |Spatial interpolation| O'S&U ch.8 and 9 | Class project|
-|16   | Apr 30, May 2 |[Kriging](blob/lectures/variogram.pdf)| O'S&U ch.8 and 9 |Class project |
-|17   | May 7 | [Review](blob/lectures/review2.pdf)|  | Project presentation |
-|18   | May 14 1:30-4:00pm  | Final |  | |
--->
-
+|1    |Jan. 16 | [Overview of the course]() |   | No lab | 
+|2    |Jan. 21, Jan 23| [Introduction to spatial analysis]()| O'S & U ch.1   | Review of map projection and ArcGIS |
+|3    |Jan 29, Jan 31  | [Spatial representation: vector analysis]() | O'S & U ch.1 and 10  | Spatial query I |
+|4    |Feb 4, 6 |Spatial representation: vector analysis| O'S & U ch.1 and 10   |Spatial query II |
+|5    |Feb 11, 13 |[Spatial representation: raster analysis]() | O'S & U ch.1 and 10   |Raster analysis I | 
+|6    |Feb 18, 20 |[Geocoding]()| O'S & U ch.1 and 10  | Model builder | 
+|7    |Feb 25, Feb 27 |[Statistics review](); pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix  | Geocoding |
+|8    | Mar 3, 5 |review; midterm |   |Project discussion |
+|9    | Mar 10, 12 | Spring break|  | |
+|10    | Mar 17, 19 |[Point pattern analysis]()| O'S & U ch.4 and 5  |Homework assignment|
+|11    | Mar 24, 26 |Point pattern analysis| O'S &U ch.7 | Point pattern analysis |
+|12   | Mar 31, 2 |[Spatial statistics of areal objects & exploratory analysis]()| O'S &U ch.7 | Getting started with GeoDa; Proposal due | 
+|13   | Apr 7, 9 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due |
+|14   | Apr 14, 16  |[Spatial Interpolation]()| O'S&U ch.8 and 9 |Spatial interpolation |
+|15   | Apr 21, 23  |Spatial interpolation| O'S&U ch.8 and 9 | Class project|
+|16   | Apr 28, 30 |[Kriging]()| O'S&U ch.8 and 9 |Class project |
+|17   | May 5 | [Review]()|  | Project presentation |
+|18   | May 12 1:30-4:00pm  | Final |  | |
+|
+<!--
 |Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 | --- | ---------| --------------------------- | -------| --------------------------- |
 |1    |Aug 27, Aug 29|[Overview of the course](blob/lectures/lecture1.pdf), [Introduction to spatial analysis](blob/lectures/lecture2.pdf)| O'S & U ch.1   | Review of map projection and ArcGIS | 
@@ -94,7 +94,7 @@ Matlab are encouraged to use them but it is not required.
 |14   | Nov 26, Thanksgiving  | [Review](blob/lectures/review2.pdf), Fall break |  | | 
 |15   | Dec 3, 7 | Final, class presentation |  |  |
 |16   | Dec 9 (Monday) 5pm  | Class report |  | |
-
+-->
 ## Learning outcomes
 
 After completing this course, the **undergraduate** of this class are expected to learn
@@ -189,12 +189,11 @@ Each exam, lab exercise and final project is worth $100$ points, and the
 final points will be a combination of these three elements according to
 the following weights:
 
--   two written exams: 30% (each 15%)
+-   two written exams: 40% (each 20%)
 
 -   ten lab exercises: 45% 
 
--   final project proposal (5%), presentation (10%) and paper (10%) :
-    25%
+-   final project proposal (5%), presentation (10%): 15%
 
 
 To ensure a specific grade in this course you must meet the following
