@@ -54,7 +54,7 @@ Matlab are encouraged to use them but it is not required.
 
 ## Course Schedule
 
-|Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics | 
+|Week |Lecture Dates| Lecture Topics | Readings | Lab/Discussion Topics |
 |---  |---------|---------|-------------|---------------------------| 
 |1    |Jan. 16 | [Overview of the course]() |   | No lab | 
 |2    |Jan. 21, Jan 23| [Introduction to spatial analysis]()| O'S & U ch.1   | Review of map projection and ArcGIS | 
