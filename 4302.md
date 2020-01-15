@@ -64,8 +64,8 @@ Matlab are encouraged to use them but it is not required.
 |6    |Feb 18, 20 |[Geocoding]()| O'S & U ch.1 and 10  | Model builder | 
 |7    |Feb 25, Feb 27 |[Statistics review](); pitfalls and potential of spatial data | O'S & U ch.2, 3 and Appendix  | Geocoding |
 |8    | Mar 3, 5 |review; midterm |   |Project discussion |
-|9    | Mar 10, 12 | Spring break|  | |
-|10    | Mar 17, 19 |[Point pattern analysis]()| O'S & U ch.4 and 5  |Homework assignment|
+|9    | Mar 10, 12 |[Point pattern analysis]()| O'S & U ch.4 and 5  |Homework assignment|
+|10    | Mar 17, 19 | Spring break|  | |
 |11    | Mar 24, 26 |Point pattern analysis| O'S &U ch.7 | Point pattern analysis |
 |12   | Mar 31, 2 |[Spatial statistics of areal objects & exploratory analysis]()| O'S &U ch.7 | Getting started with GeoDa; Proposal due | 
 |13   | Apr 7, 9 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due |
