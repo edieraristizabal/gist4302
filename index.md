@@ -173,15 +173,15 @@ apply the methods and tools learned from this class to real-world spatial
 problems.  Topics of the final project could be related to the spatial
 aspect of a thesis or another course work. The proposal associated with the
 final project should include a clear description of the proposed problems
-with appropriate background literatures justifying the motivation,
+with appropriate background literature justifying the motivation,
 description of the collected data sources, and methodology adopted to
-address the problem.  When the project proposal is due (Nov.3rd), students
+address the problem.  When the project proposal is due, students
 are expected to have collected the necessary data at hand. The final
 project will require a presentation of about 6-10 mins [*PechaKucha
 style*](http://en.wikipedia.org/wiki/Pecha_Kucha) or a poster session, and
 a final project report. Students are encouraged to start thinking of
 project ideas early in the semester, and communicate them with the
-instructor and the TA for feedbacks and comments.
+instructor and the TA for feedback and comments.
 
 ## Grading
 
