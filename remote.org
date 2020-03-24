@@ -1,0 +1,49 @@
+#+TITLE: GIST4302/5302: Remote GIS Lab
+#+AUTHOR: Guofeng Cao
+#+EMAIL: guofeng.cao@ttu.edu
+
+This document describes the steps to move the class, lectures and labs, to on-line. For the lecture, we will use primarily use Blackboard and use Microsoft Team as the backup in case the system was overwhelmed. For the lab, additional steps will be required to to access TTU server using your computers at home. The remainder of this document describes the details .
+
+
+* Lectures
+
+Lectures will be live stream during the scheduled class time, 12:30pm-1:30pm on Tuesday and Thursday, and the recorded video should be available after the lectures complete.
+
+** Blackboard
+
+Blackboard is the easiest option without needing extra software. The following is the link to access the live stream during scheduled class time:
+
+https://us.bbcollab.com/guest/bf4809aecaee4a3e9e5757f7ebb6436e
+
+
+** Microsoft Team
+
+As mentioned, we will go with this option as a backup in case the Blackboard is overwhelmed by the load. The setup with Microsoft Team is also straightforward. Copy and paste the following link into your browser (Google Chrome recommended on both Windows and Mac), and it might ask you to install Microsoft Team software.
+
+https://teams.microsoft.com/l/team/19%3aacc451c2de9b47afa2acb85c6716ebf9%40thread.tacv2/conversations?groupId=34a51520-8323-400a-9d6a-572cefdf3e3c&tenantId=178a51bf-8b20-49ff-b655-56245d5c173c
+
+
+* Lab
+
+Compared with lecture, moving lab to on-line takes extra steps. VPN is essential to allow the accesses to TTU resources from home. After VPN is setup, you can access the TTU servers including Techshare from home as you normally do on campus. The following gives the setup instructions.
+
+For Windows users, I recommend installing ArcMap on your own computer. You will be given a license code for the installation. The installation package can be downloaded from remote drive ~\\software.itts.ttu.edu\shared\ArcGIS~ (setup VPN first for the downloading, see below) and the installation process is relatively straightforward.
+
+For Mac users, remote desktop is probably the easiest option since ArcMap will not run on Mac systems. See the following for setup instructions.
+
+
+** VPN
+
+VPN stands for Virtual Private Network. It is required to access most of the TTU computation resources using off-campus computers. A TTU VPN connection authenticates your TTU credentials as an approved user who is allowed permission to access the TTU network. The setup of VPN on your own computer is straightforward; a software named GlobalProtect is basically what is needed. The TTU IT Help Central has a detail instructions on how to setup: https://www.askit.ttu.edu/portal/app/portlets/results/viewsolution.jsp?guest=0&solutionid=181128172423631&hypermediatext=null
+
+
+
+*** Windows users
+
+*** Mac Users
+
+** Remote Desktop
+
+*** Windows users
+
+*** Mac Users
