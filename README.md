@@ -67,7 +67,7 @@ Matlab are encouraged to use them but it is not required.
 |9    | Mar 10, 12 |[Point pattern analysis](blob/lectures/lecture6-point.pdf)| O'S & U ch.4 and 5  |Homework assignment|
 |10    | Mar 17, 19 | Spring break|  | |
 |11    | Mar 24, 26 |Point pattern analysis| O'S &U ch.7 | Point pattern analysis |
-|12   | Mar 31, 2 |[Spatial statistics of areal objects & exploratory analysis]()| O'S &U ch.7 | Getting started with GeoDa; Proposal due | 
+|12   | Mar 31, 2 |[Spatial statistics of areal objects & exploratory analysis]((blob/lectures/lecture7-areal.pdf))| O'S &U ch.7 | Getting started with GeoDa| 
 |13   | Apr 7, 9 |Spatial statistics of areal objects & exploratory analysis| O'S &U ch.7 | Exploratory analysis and cluster detection with GeoDa ; Proposal due |
 |14   | Apr 14, 16  |[Spatial Interpolation]()| O'S&U ch.8 and 9 |Spatial interpolation |
 |15   | Apr 21, 23  |Spatial interpolation| O'S&U ch.8 and 9 | Class project|
